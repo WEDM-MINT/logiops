@@ -1,8 +1,5 @@
 # Compatible Devices
 
-This is not by any means an exhaustive list. Many more devices are supported but these devices are the ones that are confirmed to be working. To add to this list, submit a pull request adding your device.
-
-
 | Device              | Compatible? |              Config Name               |
 | :-----------------: | :---------: | :------------------------------------: |
 | LIFT                |     Yes     | `LIFT VERTICAL ERGONOMIC MOUSE`        |
